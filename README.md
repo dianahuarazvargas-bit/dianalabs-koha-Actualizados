@@ -190,4 +190,4 @@ Los demás campos (título, autor, etc.) **sí se actualizan correctamente**, pe
 
 > 📌 **Nota para el equipo de ONPE:**  
 > Existen indicaciones específicas sobre el uso de abreviaturas y el tratamiento de publicaciones periódicas.  
-> Consultar el documento [`INDICACIONES_INTERNAS_ONPE.pdf`](./docs/INDICACIONES_INTERNAS_ONPE.pdf).
+> Consultar el documento [`Indicaciones sobre el ingreso de registros mediantes sheets.pdf`](./docs/Indicaciones%20sobre%20el%20ingreso%20de%20registros%20mediantes%20sheets.pdf)
