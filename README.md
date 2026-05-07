@@ -16,7 +16,9 @@ Esta guía explica cómo **actualizar registros bibliográficos ya existentes** 
 
 | Archivo | Descripción |
 |---------|-------------|
-| `GoogleSheet_a_Marc_Libros_Actualizados.ipynb` | Notebook de Google Colab que procesa y actualiza registros MARC21 |
+| [`GoogleSheet_a_Marc_Libros_Actualizados.ipynb`](./GoogleSheet_a_Marc_Libros_Actualizados.ipynb) | Notebook de Google Colab que procesa y actualiza registros MARC21 |
+| [`Normalized_Global_Report-reportresults.xlsx`](./Normalized_Global_Report-reportresults.xlsx) | Versión ejemplo de informe generado mediante query por KOHA |
+| [`Plantilla_Libros_Actualizados_GSheets.xlsx`](./Plantilla_Libros_Actualizados_GSheets.xlsx) | Plantilla de ejemplo con las columnas y encabezados esperados por el script |
 | `README.md` | Esta guía — instrucciones completas |
 
 ---
